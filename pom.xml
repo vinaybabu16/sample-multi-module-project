@@ -42,8 +42,8 @@
     </dependencyManagement>
 
     <modules>
-        <module>../sample-multi-module-service</module>
-        <module>../sample-multi-module-web</module>
+        <module>./sample-multi-module-service</module>
+        <module>./sample-multi-module-web</module>
     </modules>
 
 </project>
